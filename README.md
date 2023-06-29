@@ -7,7 +7,7 @@ I wanted to create a text editor PWA using webpack plugins.
 
 ## Link to JATE
 
-https://dev-blog-2.herokuapp.com/
+https://just-text-editor-1-7294661b4a22.herokuapp.com/
 
 ## Table of contents
 - [Usage](#usage)
